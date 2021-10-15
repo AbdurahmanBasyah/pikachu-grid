@@ -1,11 +1,11 @@
 {
-  "homepage": "https://abdurahmanbasyah.github.io/pikachu-grid",
+  "homepage": "http://abdurahmanbasyah.github.io/pikachu-grid",
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deply": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
