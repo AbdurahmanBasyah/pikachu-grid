@@ -1,2 +1,2 @@
 # pikachu-grid
-just a grid pikcahu for fun
+just a pikachu
